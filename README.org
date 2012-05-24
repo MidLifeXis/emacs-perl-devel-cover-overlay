@@ -67,7 +67,7 @@ README file for emacs-perl-devel-cover-overlay
 
 * Credits
 
-  This is largly inspired by rcov.el, copyright (C) 2008 by Ryan
+  This is largely inspired by rcov.el, copyright (C) 2008 by Ryan
   Davis, found at http://emacswiki.org/emacs/rcov-overlay.el.
 
 * End of File                                                      :noexport:
