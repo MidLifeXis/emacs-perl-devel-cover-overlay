@@ -34,10 +34,10 @@ README file for emacs-perl-devel-cover-overlay
 
 * Author
 
-  Brian T. Wightman
-  http://www.wightmanfam.org
-  MidLifeXis@wightmanfam.org
-  MidLifeXis@PerlMonks
+  - Brian T. Wightman
+  - http://www.wightmanfam.org
+  - MidLifeXis@wightmanfam.org
+  - MidLifeXis@PerlMonks
 
 * Copyright and License
 
